@@ -1,3 +1,3 @@
-20213045	Eojin Lee 
+20213045 - Eojin Lee
 
 kookmin univ software ...!
