@@ -1,3 +1,3 @@
 20213045 - Eojin Lee
 
-kookmin univ School of Computer Scinence
+kookmin univ School of Computer Scinence (cs)
